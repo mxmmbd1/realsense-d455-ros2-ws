@@ -1,3 +1,7 @@
+# Explicitly include librealsense directory
+!librealsense/
+!librealsense/**
+
 # Ignore build, install, and log directories
 build/
 install/
